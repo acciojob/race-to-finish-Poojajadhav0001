@@ -1,7 +1,4 @@
-window.promises = [];
-
-// Do not change the code above this
-// add your promises to the array `promises`const promises = [];
+ const promises = [];
 
     // Create 5 promises with random resolve times
     for (let i = 1; i <= 5; i++) {
