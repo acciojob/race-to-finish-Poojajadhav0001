@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      flex-direction: column;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    #output {
+      padding: 15px 20px;
+      border: 2px solid #007bff;
+      border-radius: 6px;
+      background: #fff;
+      min-width: 300px;
+      text-align: center;
+      font-weight: bold;
+      color: #007bff;
+      font-size: 18px;
+    }
